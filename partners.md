@@ -19,7 +19,7 @@ title: Centeanes
 <img src="assets/images/imt.png" alt="Institut Mines-Telecom" class="center-image"/> 
 <img src="assets/images/upc.png" alt="Université Paris Cité" class="center-image"/>
 <img src="assets/images/sorbonne.png" alt="Sorbonne Université" class="center-image"/>
-<img src="assets/images/polytech.png" alt="École polytechnique" class="center-image"/>
-<img src="assets/images/zetta.png" alt="ZettaScale Technology" class="center-image"/>
+<img src="assets/images/polytech.jpg" alt="École polytechnique" class="center-image"/>
+<img src="assets/images/zettascale.png" alt="ZettaScale Technology" class="center-image"/>
 
 
